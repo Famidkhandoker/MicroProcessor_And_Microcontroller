@@ -52,4 +52,9 @@ MAIN PROC
     
     MAIN ENDP
 END MAIN
+
+//output
+//Enter the first digit:5
+//Enter the second digit:2
+//Subtraction:3
     
