@@ -20,3 +20,6 @@ MAIN PROC
     EXIT:
     MAIN ENDP
 END MAIN
+
+//output
+AX=650 (register save)
