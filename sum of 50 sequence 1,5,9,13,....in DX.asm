@@ -23,6 +23,9 @@ MAIN PROC
     MAIN ENDP
 END MAIN
 
+//Output:
+DX = 4950
+
 
 
 
