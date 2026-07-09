@@ -20,3 +20,6 @@ MAIN PROC
    EXIT:         
    MAIN ENDP
 END MAIN
+
+//Output:
+ Ax = 30
