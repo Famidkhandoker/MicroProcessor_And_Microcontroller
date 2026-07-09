@@ -21,6 +21,8 @@ MAIN PROC
    MAIN ENDP
 END MAIN
 
+//Output:
+AX = 25
 
 
 
